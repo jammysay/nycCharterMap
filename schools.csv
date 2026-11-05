@@ -1,0 +1,287 @@
+beds,dbn,name,authorizer,opened,status,institution_id,city_beds,city_name,identity_match
+331400861021,84K037,Beginning with Children Charter School II,SUNY,2012-09-04,operating,800000071156,331400861021,Beginning with Children Charter School II,exact BEDS
+331400861022,84K125,Success Academy Charter School – Bed Stuy 2,SUNY,2012-08-27,operating,800000071157,331400861022,Success Academy Charter School - Bed Stuy 2,exact BEDS
+331500861023,84K129,Success Academy Charter School – Cobble Hill,SUNY,2012-08-27,operating,800000071158,331500861023,Success Academy Charter School - Cobble Hill,exact BEDS
+331400861024,84K182,Success Academy Charter School – Williamsburg,SUNY,2012-08-27,operating,800000071160,331400861024,Success Academy Charter School - Williamsburg,exact BEDS
+331400860885,84K355,Uncommon Williamsburg Charter School NYC,SUNY,2005-09-01,operating,800000058838,331400860885,Uncommon Williamsburg Charter School NYC,exact BEDS
+331700860879,84K356,Achievement First Crown Heights Charter School,SUNY,2005-08-01,operating,800000058356,331700860879,Achievement First Crown Heights Charter School,exact BEDS
+331700860882,84K357,KIPP Always Mentally Prepared Charter School,SUNY,2005-07-01,operating,800000058839,331700860882,KIPP Always Mentally Prepared Charter School,exact BEDS
+331900860880,84K358,Achievement First East New York Charter School,SUNY,2005-09-01,operating,800000058357,331900860880,Achievement First East New York Charter School,exact BEDS
+331600861003,84K360,Launch Expeditionary Learning Charter School,Regents,2012-08-22,operating,800000070180,331600861003,Launch Expeditionary Learning Charter School,exact BEDS
+331500860878,84K362,Hellenic Classical Charter School - Park Slope,Regents,2005-09-16,operating,800000058308,331500860878,Hellenic Classical Charter School,exact BEDS
+331400861007,84K367,Success Academy Charter School – Bed Stuy 1,SUNY,2011-08-09,operating,800000070173,331400861007,Success Academy Charter School - Bed Stuy 1,exact BEDS
+331800860702,84K379,Explore Excel Charter School,SUNY,2011-09-01,operating,800000070559,331800860702,Explore Excel Charter School,exact BEDS
+331600860975,84K406,"Ember CS for Mindful Education, Innovation and Transformation",NYCDOE,2011-09-01,operating,800000067236,331600860975,"EMBER Charter School for Mindful Education, Innovation and Transformation",exact BEDS
+332200861006,84K417,Urban Dove Team Charter School,Regents,2012-08-27,operating,800000070188,332200861006,Urban Dove Team Charter School,exact BEDS
+331400860865,84K473,Williamsburg Charter High School,Regents,2004-08-23,operating,800000057520,331400860865,Williamsburg Charter High School,exact BEDS
+331500861016,84K486,New Dawn Charter High School,Regents,2012-08-05,operating,800000071079,331500861016,New Dawn Charter High School,exact BEDS
+331300860902,84K508,Achievement First Endeavor Charter School,SUNY,2006-08-30,operating,800000059324,331300860902,Achievement First Endeavor Charter School,exact BEDS
+331300860901,84K517,Uncommon Bed-Stuy West Charter School NYC,SUNY,2006-08-21,operating,800000059311,331300860901,Uncommon Bed-Stuy West Charter School NYC,exact BEDS
+331300860893,84K536,Community Roots Charter School,NYCDOE,2006-09-07,operating,800000059312,331300860893,Community Roots Charter School,exact BEDS
+333200860906,84K538,Achievement First-Bushwick Charter School,SUNY,2006-09-01,operating,800000059570,333200860906,Achievement First Bushwick Charter School,exact BEDS
+331600860860,84K593,Uncommon Excellence Boys Charter School NYC,SUNY,2004-09-01,operating,800000056787,331600860860,Uncommon Excellence Boys Charter School NYC,exact BEDS
+331800860908,84K608,Uncommon Kings Charter School NYC,SUNY,2007-08-07,operating,800000059786,331800860908,Uncommon Kings Charter School NYC,exact BEDS
+332300860912,84K626,Achievement First Brownsville Charter School,SUNY,2008-08-27,operating,800000061077,332300860912,Achievement First Brownsville Charter School,exact BEDS
+331600860918,84K648,Uncommon Bed-Stuy East Charter School NYC,SUNY,2008-08-18,operating,800000061081,331600860918,Uncommon Bed-Stuy East Charter School NYC,exact BEDS
+331600860924,84K649,La Cima Charter School,Regents,2008-08-18,operating,800000061085,331600860924,La Cima Charter School,exact BEDS
+331500860927,84K651,PAVE Academy Charter School,SUNY,2008-09-01,operating,800000061098,331500860927,PAVE Academy Charter School,exact BEDS
+332300860916,84K652,Brooklyn Ascend Charter School,SUNY,2008-09-02,operating,800000061080,331800860916,Brooklyn Ascend Charter School,exact school name and unique unmatched state school
+331900860993,84K680,Achievement First Aspire Charter School,SUNY,2013-08-15,operating,800000070171,38400010680,Achievement First Aspire Charter School,exact school name and unique unmatched state school
+331400860945,84K693,Northside Charter High School,Regents,2009-08-24,operating,800000063771,331400860945,Northside Charter High School,exact BEDS
+331400860809,84K701,Brooklyn Charter School (The),NYCDOE,2000-09-01,operating,800000044900,331400860809,Brooklyn Charter School,exact BEDS
+331300860810,84K702,Community Partnership Charter School,SUNY,2000-09-05,operating,800000045417,331300860810,Community Partnership Charter School,exact BEDS
+331700860841,84K704,Explore Charter School,SUNY,2002-08-22,operating,800000048424,331700860841,Explore Charter School,exact BEDS
+331500860935,84K707,Brooklyn Prospect Charter School Windsor Terrace Campus,SUNY,2009-08-01,operating,800000063976,331800860935,Brooklyn Prospect Charter School Windsor Terrace Campus,exact school name and unique unmatched state school
+332300860939,84K710,Brownsville Collegiate Charter School,SUNY,2009-08-01,operating,800000063979,332300860939,Brownsville Collegiate Charter School,exact BEDS
+332300860942,84K711,Uncommon Brownsville South Charter School NYC,SUNY,2009-08-27,operating,800000063981,332300860942,Uncommon Brownsville South Charter School NYC,exact BEDS
+331600860938,84K712,Uncommon Excellence Girls Charter School NYC,SUNY,2009-09-09,operating,800000064231,331600860938,Uncommon Excellence Girls Charter School NYC,exact BEDS
+331800860943,84K724,Uncommon Canarsie Charter School NYC,SUNY,2013-08-28,operating,800000063982,331800860943,Uncommon Canarsie Charter School NYC,exact BEDS
+331500860953,84K730,Summit Academy Charter School,NYCDOE,2009-09-01,operating,800000064232,331500860953,Summit Academy Charter School,exact BEDS
+331600860847,84K731,Brooklyn Excelsior Charter School,SUNY,2003-09-01,operating,800000056456,331600860847,Brooklyn Excelsior Charter School,exact BEDS
+333200861059,84K733,"Math, Engineering, and Science Academy Charter High School",Regents,2013-08-19,operating,800000076137,333200861059,"Math, Engineering, and Science Academy Charter High School",exact BEDS
+331800861057,84K736,New American Academy Charter School (The),Regents,2013-09-03,operating,800000075846,331800861057,New American Academy Charter School,exact BEDS
+332300860954,84K737,Brownsville Ascend Charter School,SUNY,2009-09-08,operating,800000064233,332300860954,Brownsville Ascend Charter School,exact BEDS
+332200861053,84K738,United Charter High School for Advanced Math and Science III,Regents,2013-08-19,operating,800000075843,332200861053,United Charter High School for Advanced Math and Science lll,exact BEDS
+331900860958,84K740,Brooklyn Scholars Charter School,NYCDOE,2009-09-10,operating,800000064237,331900860958,Brooklyn Scholars Charter School,exact BEDS
+331700861041,84K741,Success Academy Charter School – Crown Heights,SUNY,2013-08-26,operating,800000075835,331700861041,Success Academy Charter School - Crown Heights,exact BEDS
+331700860950,84K742,Explore Empower Charter School,SUNY,2009-09-09,operating,800000063972,331700860950,Explore Empower Charter School,exact BEDS
+332100860949,84K744,Coney Island Preparatory Public Charter School,SUNY,2009-08-31,operating,800000063971,332100860949,Coney Island Preparatory Public Charter School,exact BEDS
+332200860955,84K746,Hebrew Language Academy Charter School,NYCDOE,2009-08-26,operating,800000064234,332200860955,Hebrew Language Academy Charter School,exact BEDS
+332200861039,84K752,Success Academy Charter School – Sheepshead Bay,SUNY,2013-08-26,operating,800000075833,331300861039,Success Academy Charter School - Sheepshead Bay,exact school name and unique unmatched state school
+331700861040,84K756,Success Academy Charter School – Prospect Heights,SUNY,2013-08-26,operating,800000075834,331700861040,Success Academy Charter School - Prospect Heights,exact BEDS
+331300861056,84K757,Unity Preparatory Charter School of Brooklyn,Regents,2013-08-28,operating,800000075840,331300861056,Unity Preparatory Charter School of Brooklyn,exact BEDS
+331500861011,84K758,Brooklyn Urban Garden Charter School,Regents,2013-08-26,operating,800000071074,331500861011,Brooklyn Urban Garden Charter School,exact BEDS
+331800861033,84K759,Canarsie Ascend Charter School,SUNY,2013-09-03,operating,800000072840,331800861033,Canarsie Ascend Charter School,exact BEDS
+331300861079,84K766,Brooklyn Prospect Charter School Bed-Stuy Clinton Hill Campus,SUNY,2015-08-24,operating,800000083989,331300861079,Brooklyn Prospect Charter School Bed-Stuy Clinton Hill Campus,exact BEDS
+331900860972,84K769,Hyde Leadership Charter School - Brooklyn,NYCDOE,2010-08-30,operating,800000067233,331900860972,Hyde Leadership Charter School - Brooklyn,exact BEDS
+332100861075,84K772,Success Academy Charter School – Bensonhurst,SUNY,2014-09-01,operating,800000082605,332100861075,Success Academy Charter School - Bensonhurst,exact BEDS
+331900860933,84K774,Achievement First Apollo Charter School,SUNY,2010-08-01,operating,800000063975,331900860933,Achievement First Apollo Charter School,exact BEDS
+332300860941,84K775,Uncommon Brownsville North Charter School NYC,SUNY,2010-08-27,operating,800000063980,332300860941,Uncommon Brownsville North Charter School NYC,exact BEDS
+332300860936,84K777,Uncommon Crown Heights Charter School NYC,SUNY,2010-08-07,operating,800000063977,332300860936,Uncommon Crown Heights Charter School NYC,exact BEDS
+332200861076,84K781,Success Academy Charter School – Bergen Beach,SUNY,2014-09-01,operating,800000082606,332200861076,Success Academy Charter School - Bergen Beach,exact BEDS
+331600860971,84K782,Bedford Stuyvesant New Beginnings Charter School,NYCDOE,2010-09-01,operating,800000067232,331600860971,Bedford Stuyvesant New Beginnings Charter School,exact BEDS
+333200861045,84K784,Achievement First North Brooklyn Preparatory Charter School,SUNY,2014-09-01,operating,800000076142,333200861045,Achievement First North Brooklyn Preparatory Charter School,exact BEDS
+332300860973,84K785,Imagine Me Leadership Charter School,NYCDOE,2010-09-07,operating,800000067234,331900860973,Imagine Me Leadership Charter School,exact school name and unique unmatched state school
+331900861072,84K788,Achievement First Linden Charter School,SUNY,2014-09-01,operating,800000082611,331900861072,Achievement First Linden Charter School,exact BEDS
+331300861066,84K789,Compass Charter School,Regents,2014-09-01,operating,800000082487,331300861066,Compass Charter School,exact BEDS
+332200861050,84K790,Central Brooklyn Ascend Charter School,SUNY,2014-09-01,operating,800000076143,332200861050,Central Brooklyn Ascend Charter School,exact BEDS
+332200860978,84K791,Brooklyn Dreams Charter School,SUNY,2010-09-01,operating,800000068331,332200860978,Brooklyn Dreams Charter School,exact BEDS
+331800860988,84K792,Cultural Arts Academy Charter School at Spring Creek,NYCDOE,2010-09-07,operating,800000067494,331800860988,Cultural Arts Academy Charter School At Spring Creek,exact BEDS
+333200860987,84K793,Bushwick Ascend Charter School,SUNY,2010-09-07,operating,800000067493,333200860987,Bushwick Ascend Charter School,exact BEDS
+331300861063,84K803,Brooklyn Laboratory Charter School,Regents,2014-09-01,operating,800000082484,331300861063,Brooklyn Laboratory Charter School,exact BEDS
+333200861086,84K876,Achievement First Voyager Charter School,SUNY,2016-09-01,operating,800000084525,331700861086,Achievement First Voyager Charter School,exact school name and unique unmatched state school
+331300861077,84K879,Brooklyn Prospect Charter School Downtown Campus,SUNY,2016-09-01,operating,800000083987,331300861077,Brooklyn Prospect Charter School Downtown Campus,exact BEDS
+333200861096,84K882,Success Academy Charter School - Bushwick,SUNY,2016-09-01,operating,800000084535,333200861096,Success Academy Charter School - Bushwick,exact BEDS
+342400861095,84K883,Success Academy Charter School - Bed-Stuy 3,SUNY,2016-09-01,operating,800000084534,331600861095,Success Academy Charter School - Bed Stuy 3,exact school name and unique unmatched state school
+331700861094,84K886,Success Academy Charter School - Flatbush,SUNY,2016-09-01,operating,800000084533,331700861094,Success Academy Charter School - Flatbush,exact BEDS
+331600861112,84K892,Brooklyn Emerging Leaders Academy Charter School,SUNY,2017-07-01,operating,800000088150,331600861112,Brooklyn Emerging Leaders Academy Charter School,exact BEDS
+332100861123,84K895,Hebrew Language Academy Charter School 2,Regents,2017-09-05,operating,800000089045,332100861123,Hebrew Language Academy Charter School 2,exact BEDS
+331900861131,84K910,Cypress Hills Ascend Charter School,SUNY,2018-09-01,operating,800000089574,331900861131,Cypress Hills Ascend Charter School,exact BEDS
+331300861110,84K911,Edmund W. Gordon Brooklyn Laboratory Charter School,Regents,2018-09-01,operating,800000087934,331300861110,Edmund W. Gordon Brooklyn Laboratory Charter School,exact BEDS
+331800861146,84K927,Ivy Hill Preparatory Charter School,Regents,2019-08-28,operating,800000080255,331800861146,Ivy Hill Preparatory Charter School,exact BEDS
+331500861162,84K928,Brooklyn Prospect Charter School Sunset Yards Campus,SUNY,2019-09-01,operating,800000090775,331500861162,Brooklyn Prospect Charter School Sunset Yards Campus,exact BEDS
+331900861132,84K929,East Brooklyn Ascend Charter School,SUNY,2019-09-01,operating,800000089575,331900861132,East Brooklyn Ascend Charter School,exact BEDS
+331500861158,84K930,LEEP Dual Language Academy Charter School,Regents,2019-08-26,operating,800000090723,331500861158,LEEP Dual Language Academy Charter School,exact BEDS
+331700861164,84K933,Flatbush Ascend Charter School,SUNY,2019-09-01,operating,800000090781,331700861164,Flatbush Ascend Charter School,exact BEDS
+331800861165,84K934,East Flatbush Ascend Charter School,SUNY,2019-09-01,operating,800000090784,331800861165,East Flatbush Ascend Charter School,exact BEDS
+331500861156,84K937,Brooklyn RISE Charter School,Regents,2019-08-26,operating,800000090721,331500861156,Brooklyn RISE Charter School,exact BEDS
+331800861168,84K956,Lamad Academy Charter School,SUNY,2020-08-01,operating,800000090792,331800861168,Lamad Academy Charter School,exact BEDS
+331800861177,84K964,Brooklyn Ascend Charter School 6,SUNY,2024-09-01,operating,800000091165,331300861177,Brooklyn Ascend Charter School 6,exact school name and unique unmatched state school
+331600861197,84K966,Bedford Stuyvesant New Beginnings Charter School 2,SUNY,2024-09-01,operating,800000093167,331600861197,Bedford Stuyvesant New Beginnings Charter School II,exact BEDS
+332000861201,84K970,"Math, Engineering, and Science Academy Charter High School 2",SUNY,2025-09-01,operating,800000093171,332000861201,"Math, Engineering, and Science Academy Charter High School 2",exact BEDS
+331700861199,84K978,Kwenda Collegiate Girls Charter School,SUNY,2026-09-01,operating,800000093169,331700861199,Kwenda Collegiate Girls Charter School,exact BEDS
+333200861210,84K979,Urban Dove Team Charter School V,SUNY,2026-09-01,operating,800000093534,331300861210,Urban Dove Team Charter School V,exact school name and unique unmatched state school
+310600861013,84M068,KIPP NYC Washington Heights Academy Charter School,SUNY,2012-08-20,operating,800000071076,310600861013,KIPP NYC Washington Heights Academy Charter School,exact BEDS
+310500861012,84M085,Global Community Charter School,Regents,2012-09-04,operating,800000071075,310500861012,Global Community Charter School,exact BEDS
+310600861015,84M100,Neighborhood Charter School of Harlem (The),Regents,2012-08-20,operating,800000071078,310600861015,Neighborhood Charter School of Harlem,exact BEDS
+310400861046,84M168,East Harlem Scholars Academy Charter School II,SUNY,2013-08-26,operating,800000076141,310400861046,East Harlem Scholars Academy Charter School II,exact BEDS
+310200861043,84M170,Success Academy Charter School – Hell's Kitchen,SUNY,2013-08-26,operating,800000075837,310200861043,Success Academy Charter School - Hell's Kitchen,exact BEDS
+310200861042,84M174,Success Academy Charter School – Union Square,SUNY,2013-08-26,operating,800000075836,310200861042,Success Academy Charter School - Union Square,exact BEDS
+310200861055,84M202,Great Oaks Kathleen Sherry Charter School,Regents,2013-08-26,operating,800000075841,310200861055,Great Oaks Kathleen Sherry Charter School,exact BEDS
+310500861081,84M204,Capital Preparatory (CP) Harlem Charter School,SUNY,2016-09-01,operating,800000084243,310500861081,Capital Preparatory Harlem Charter School,exact BEDS
+310200861104,84M263,New York City Charter School of the Arts,SUNY,2016-09-01,operating,800000086904,310200861104,New York City Charter School of the Arts,exact BEDS
+310600861073,84M265,Success Academy Charter School – Washington Heights,SUNY,2014-09-01,operating,800000082603,310600861073,Success Academy Charter School - Washington Heights,exact BEDS
+310300860871,84M279,Opportunity Charter School,NYCDOE,2004-08-01,operating,800000057639,310300860871,Opportunity Charter School,exact BEDS
+310500860864,84M284,Harlem Children’s Zone Promise Academy Charter School,NYCDOE,2004-09-07,operating,800000057519,310500860864,Harlem Children's Zone Promise Academy Charter School,exact BEDS
+310600861101,84M295,School in the Square Public Charter School,Regents,2016-09-06,operating,800000086906,310600861101,School in the Square Public Charter School,exact BEDS
+310100860873,84M320,Manhattan Charter School,SUNY,2005-09-07,operating,800000057944,310100860873,Manhattan Charter School,exact BEDS
+310300860875,84M329,Harlem Link Charter School,SUNY,2005-09-05,operating,800000058135,310300860875,Harlem Link Charter School,exact BEDS
+310400860849,84M335,Harlem Village Academy East Charter School,SUNY,2005-08-01,operating,800000056181,310400860849,Harlem Village Academy East Charter School,exact BEDS
+310500860883,84M336,KIPP Infinity Charter School,SUNY,2005-07-01,operating,800000058367,310500860883,KIPP Infinity Charter School,exact BEDS
+310400861061,84M337,New York Center for Autism Charter School East Harlem,SUNY,2005-09-06,operating,800000058980,310400861061,NYC Autism Charter School East Harlem,exact BEDS
+310600861111,84M338,WHIN Music Community Charter School,Regents,2017-09-07,operating,800000087936,310600861111,WHIN Music Community Charter School,exact BEDS
+310500860886,84M341,Harlem Children’s Zone Promise Academy II Charter School,NYCDOE,2005-09-09,operating,800000058981,310500860886,Harlem Children's Zone Promise Academy II Charter School,exact BEDS
+310500860894,84M350,Democracy Preparatory Charter School,SUNY,2006-08-20,operating,800000059313,310500860894,Democracy Preparatory Charter School,exact BEDS
+310300860897,84M351,Success Academy Charter School – Harlem 1,SUNY,2006-08-05,operating,800000059316,310300860897,Success Academy Charter School - Harlem 1,exact BEDS
+310600860887,84M353,New Heights Academy Charter School,NYCDOE,2005-09-01,operating,800000059088,310600860887,New Heights Academy Charter School,exact BEDS
+310200861087,84M358,Success Academy Charter School - Hudson Yards,SUNY,2017-08-01,operating,800000084526,310200861087,Success Academy Charter School - Hudson Yards,exact BEDS
+310600861140,84M373,Zeta Charter School - Inwood,SUNY,2018-08-01,operating,800000089931,310600861140,Zeta Charter Schools - Inwood,exact BEDS
+310500861149,84M380,Harlem Village Academy West Charter School,SUNY,2019-08-10,operating,800000090259,310500861149,Harlem Village Academy West Charter School,exact BEDS
+310400860919,84M382,DREAM Charter School East Harlem,SUNY,2008-09-02,operating,800000061082,310400860919,DREAM Charter School East Harlem,exact BEDS
+310400861171,84M383,Storefront Academy Harlem Charter School,SUNY,2019-08-01,operating,800000090802,310400861171,Storefront Academy Harlem Charter School,exact BEDS
+310500860921,84M384,Success Academy Charter School – Harlem 2,SUNY,2008-08-25,operating,800000061092,310500860921,Success Academy Charter School - Harlem 2,exact BEDS
+310400860922,84M385,Success Academy Charter School – Harlem 3,SUNY,2008-08-25,operating,800000061084,310400860922,Success Academy Charter School - Harlem 3,exact BEDS
+310300860923,84M386,Success Academy Charter School – Harlem 4,SUNY,2008-08-25,operating,800000061093,310300860923,Success Academy Charter School - Harlem 4,exact BEDS
+310600861157,84M387,American Dream Charter School II,Regents,2026-09-01,operating,800000090722,310600861157,American Dream Charter School II,exact BEDS
+310500860928,84M388,St. HOPE Leadership Academy Charter School,NYCDOE,2008-08-13,operating,800000061088,310500860928,St. HOPE Leadership Academy Charter School,exact BEDS
+310300861180,84M389,KIPP Beyond Charter School,SUNY,2021-08-01,operating,800000091168,310300861180,KIPP Beyond Charter School,exact BEDS
+310600861176,84M390,Amber Charter School Inwood,SUNY,2021-09-01,operating,800000091164,310600861176,Amber Charter School Inwood,exact BEDS
+310400861007,84M424,Urban Dove Team Charter School IV,SUNY,2012-08-27,operating,800000070534,310400861007,Urban Dove Team Charter School IV,exact BEDS
+310600860929,84M430,The Equity Project Charter School,NYCDOE,2009-09-08,operating,800000061094,310600860929,The Equity Project Charter School,exact BEDS
+310400860968,84M433,Innovation Charter High School,NYCDOE,2010-09-07,operating,800000067032,310400860968,Innovation Charter High School,exact BEDS
+310600860966,84M478,Inwood Academy for Leadership Charter School,NYCDOE,2010-09-07,operating,800000067014,310600860966,Inwood Academy for Leadership Charter School,exact BEDS
+310500860989,84M481,Democracy Prep Harlem Charter School,SUNY,2010-09-01,operating,800000067495,310500860989,Democracy Preparatory Harlem Charter School,exact BEDS
+310500860979,84M482,Success Academy Charter School – Harlem 5,SUNY,2010-08-27,operating,800000067671,310500860979,Success Academy Charter School - Harlem 5,exact BEDS
+310300860963,84M483,New York French-American Charter School,NYCDOE,2010-09-01,operating,800000067011,310300860963,New York French-American Charter School,exact BEDS
+310400860995,84M518,East Harlem Scholars Academy Charter School,SUNY,2011-09-01,operating,800000070176,310400860995,East Harlem Scholars Academy Charter School,exact BEDS
+310200860992,84M522,Broome Street Academy Charter High School,SUNY,2011-09-01,operating,800000069913,310200860992,Broome Street Academy Charter High School,exact BEDS
+310300861008,84M523,Success Academy Charter School – Upper West,SUNY,2011-08-09,operating,800000070184,310300861008,Success Academy Charter School - Upper West,exact BEDS
+310500860804,84M702,Sisulu-Walker Charter School of Harlem,SUNY,1999-09-10,operating,800000047050,800000047050,Sisulu-Walker Charter School of Harlem,exact school name and unique unmatched state school
+310400860806,84M705,Amber Charter School East Harlem,SUNY,2000-09-07,operating,800000047051,310400860806,Amber Charter School East Harlem,exact BEDS
+310200860819,84M707,John V. Lindsay Wildcat Academy Charter School,NYCDOE,2000-09-01,operating,800000047608,310200860819,John V. Lindsay Wildcat Academy Charter School,exact BEDS
+310400860840,84M708,Harlem Prep Charter School,SUNY,2001-09-01,operating,800000034143,310400860840,Harlem Prep Charter School,exact BEDS
+310500860848,84M709,Harlem Village Academy North Charter School,SUNY,2003-09-07,operating,800000056180,310500860848,Harlem Village Academy North Charter School,exact BEDS
+310500860858,84M726,KIPP STAR College Prep Charter School,SUNY,2003-09-21,operating,800000056596,310500860858,KIPP S.T.A.R. College Preparatory Charter School,exact BEDS
+310300860881,84M861,Future Leaders Institute Charter School,NYCDOE,2005-07-01,operating,800000058358,310300860881,Future Leaders Institute Charter School,exact BEDS
+342400861025,84Q083,Central Queens Academy Charter School,SUNY,2012-08-27,operating,800000071161,342400861025,Central Queens Academy Charter School,exact BEDS
+342700860869,84Q170,Peninsula Preparatory Academy Charter School,NYCDOE,2004-09-08,operating,800000057613,342700860869,Peninsula Preparatory Academy Charter School,exact BEDS
+342400861048,84Q298,Middle Village Preparatory Charter School,SUNY,2013-09-03,operating,800000076138,342400861048,Middle Village Preparatory Charter School,exact BEDS
+343000860932,84Q304,VOICE Charter School of New York,NYCDOE,2008-08-01,operating,800000061089,343000860932,VOICE Charter School of New York,exact BEDS
+342700861054,84Q320,United Charter High School for Advanced Math and Science IV,Regents,2015-09-09,operating,800000075842,342700861054,United Charter High School for Advanced Math and Science lV,exact BEDS
+343000860952,84Q321,Growing Up Green Charter School,Regents,2009-09-01,operating,800000063974,343000860952,Growing Up Green Charter School,exact BEDS
+342900861077,84Q337,Success Academy Charter School – Rosedale,SUNY,2014-09-01,operating,800000082607,342900861077,Success Academy Charter School - Rosedale,exact BEDS
+342900861078,84Q339,Success Academy Charter School – Springfield Gardens,SUNY,2014-09-01,operating,800000082608,342900861078,Success Academy Charter School - Springfield Gardens - New York 6,exact BEDS
+342700860990,84Q340,Challenge Preparatory Charter School,NYCDOE,2010-08-25,operating,800000067496,342700860990,Challenge Preparatory Charter School,exact BEDS
+342900860974,84Q341,Riverton Street Charter School,NYCDOE,2010-09-07,operating,800000067235,342900860974,Riverton Street Charter School,exact BEDS
+342800860969,84Q342,Rochdale Early Advantage Charter School,NYCDOE,2010-09-07,operating,800000067015,342800860969,Rochdale Early Advantage Charter School,exact BEDS
+343000860998,84Q359,Academy of the City Charter School,SUNY,2011-09-01,operating,800000070183,343000860998,Academy of the City Charter School,exact BEDS
+342800860824,84Q372,Growing up Green Charter School II,Regents,2016-09-01,operating,800000086908,342800860824,Growing Up Green Charter School II,exact BEDS
+332700861052,84Q373,United Charter High School for the Humanities IV,Regents,2017-09-07,operating,800000075844,342700861052,United Charter High School for the Humanities lV,BEDS suffix and similar school name
+342700861099,84Q374,Success Academy Charter School - South Jamaica,SUNY,2016-09-01,operating,800000084538,342700861099,Success Academy Charter School - South Jamaica,exact BEDS
+342700861090,84Q375,Success Academy Charter School - Far Rockaway,SUNY,2016-09-01,operating,800000084529,342700861090,Success Academy Charter School - Far Rockaway,exact BEDS
+342400861113,84Q380,Forte Preparatory Academy Charter School,SUNY,2017-08-23,operating,800000088152,342400861113,Forte Preparatory Academy Charter School,exact BEDS
+342400861133,84Q385,Elm Community Charter School,SUNY,2018-08-01,operating,800000089576,342400861133,Elm Community Charter School,exact BEDS
+342700861118,84Q386,Our World Neighborhood Charter School 2,SUNY,2018-08-01,operating,800000088151,342700861118,Our World Neighborhood Charter School 2,exact BEDS
+342800861152,84Q387,Valence College Preparatory Charter School,SUNY,2019-09-01,operating,800000090262,342800861152,Valence College Preparatory Charter School,exact BEDS
+342800861147,84Q388,New Dawn Charter High School II,Regents,2019-09-04,operating,800000080257,342800861147,New Dawn Charter High School II,exact BEDS
+342400861128,84Q414,Renaissance Charter School 2 (The),Regents,2020-07-01,operating,800000089571,342400861128,Renaissance Charter School 2,exact BEDS
+331600861082,84Q416,Achievement First Legacy Charter School,SUNY,2021-09-01,operating,800000084523,331600861082,Achievement First Legacy Charter School,exact BEDS
+342400861170,84Q418,Our World Neighborhood Charter School 3,SUNY,2022-09-01,operating,800000090800,342400861170,Our World Neighborhood Charter School 3,exact BEDS
+342700861100,84Q422,Success Academy Charter School - NYC 14,SUNY,2024-09-01,operating,800000084539,38400010422,Success Academy Charter School - NYC 14,exact school name and unique unmatched state school
+342400861198,84Q423,Central Queens Academy Charter School II,SUNY,2024-09-01,operating,800000093168,342400861198,Central Queens Academy Charter School II,exact BEDS
+343000861010,84Q428,Urban Dove Team Charter School III,SUNY,2012-08-27,operating,800000070533,343000861010,Urban Dove Team Charter School III,exact BEDS
+342800861209,84Q433,Zeta Charter Schools - Queens Jamaica,SUNY,2025-09-01,operating,800000093533,342800861209,Zeta Charter School – Queens Jamaica,exact BEDS
+342400861207,84Q434,Zeta Charter Schools - Queens Elmhurst,SUNY,2025-09-01,operating,800000093530,342400861207,Zeta Charter School – Queens Elmhurst,exact BEDS
+342500861208,84Q436,Zeta Charter Schools - Queens Flushing,SUNY,2025-09-01,operating,800000093531,342400861208,Zeta Charter School – Queens 2,BEDS suffix and similar school name
+342400861205,84Q518,Success Academy Charter School - NYC 17,SUNY,2026-09-01,operating,800000093528,342400861205,Success Academy Charter School – NYC 17,exact BEDS
+342900860821,84Q704,Merrick Academy - Queens Public Charter School,SUNY,2000-09-01,operating,800000042390,342900860821,Merrick Academy - Queens Public Charter School,exact BEDS
+343000860822,84Q705,Renaissance Charter School (The),NYCDOE,2000-09-01,operating,800000042221,343000860822,Renaissance Charter School,exact BEDS
+343000860836,84Q706,Our World Neighborhood Charter School,SUNY,2002-09-01,operating,800000042203,343000860836,Our World Neighborhood Charter School,exact BEDS
+353100861083,84R012,New Ventures Charter School,Regents,2015-07-06,operating,800000084244,353100861083,New Ventures Charter School,exact BEDS
+353100860959,84R067,John W. Lavelle Preparatory Charter School,Regents,2009-09-09,operating,800000064491,353100860959,John W. Lavelle Preparatory Charter School,exact BEDS
+353100861136,84R070,Early College Charter School,Regents,2018-08-01,operating,800000089927,353100861136,Early College Charter School,exact BEDS
+353100860984,84R073,New World Preparatory Charter School,SUNY,2010-09-01,operating,800000067673,353100860984,New World Preparatory Charter School,exact BEDS
+353100861144,84R076,Bridge Preparatory Charter School,Regents,2019-08-29,operating,800000090253,353100861144,Bridge Preparatory Charter School,exact BEDS
+353100861175,84R077,Hellenic Classical Charter School - Staten Island,Regents,2019-09-04,operating,800000090834,353100861175,Hellenic Classical Charter School - Staten Island,exact BEDS
+353100861148,84R083,Richmond Preparatory Charter School,Regents,2021-09-01,operating,800000090258,353100861148,Richmond Preparatory Charter School,exact BEDS
+353100861159,84R088,Staten Island Hebrew Public Charter School,Regents,2022-09-01,operating,800000090726,353100861159,Staten Island Hebrew Public Charter School,exact BEDS
+321200861026,84X124,Children's Aid College Prep Charter School,SUNY,2012-08-29,operating,800000071164,321200861026,Children's Aid College Preparatory Charter School,exact BEDS
+320900861029,84X133,Icahn Charter School 6,SUNY,2012-09-10,operating,800000071154,320900861029,Icahn Charter School 6,exact BEDS
+320800860872,84X165,Grand Concourse Academy Charter School,SUNY,2004-09-01,operating,800000057943,320800860872,Grand Concourse Academy Charter School,exact BEDS
+320900861004,84X177,Mott Hall Charter School,Regents,2012-08-27,operating,800000071085,320900861004,Mott Hall Charter School,exact BEDS
+321200860870,84X185,Pharos Academy Charter School,NYCDOE,2004-09-08,operating,800000057638,321200860870,Pharos Academy Charter School,exact BEDS
+320800861017,84X202,United Charter High School for Advanced Math and Science II,Regents,2012-08-13,operating,800000071080,320800861017,United Charter High School for Advanced Math and Science ll,exact BEDS
+320800861018,84X208,United Charter High School for the Humanities II,Regents,2012-08-13,operating,800000071081,320800861018,United Charter High School for the Humanities II,exact BEDS
+320700861028,84X233,Family Life Academy Charter School II,SUNY,2012-09-05,operating,800000071155,320700861028,Family Life Academy Charter School II,exact BEDS
+321100860859,84X255,Bronx Charter School for Excellence,SUNY,2004-08-01,operating,800000056707,321100860859,Bronx Charter School for Excellence,exact BEDS
+320700860889,84X309,South Bronx CS for International Cultures and the Arts,NYCDOE,2005-09-01,operating,800000058885,320700860889,South Bronx Charter School for International Cultures and the Arts,exact BEDS
+320800860903,84X345,Leaders In Our Neighborhood Charter School,SUNY,2006-08-30,operating,800000059325,320800860903,Leaders In Our Neighborhood Charter School,exact BEDS
+321200860898,84X346,South Bronx Classical Charter School,Regents,2006-08-23,operating,800000059317,321200860898,South Bronx Classical Charter School,exact BEDS
+321000860904,84X347,International Leadership Charter High School,SUNY,2006-09-11,operating,800000059326,,International Leadership Charter High School,exact school name and unique unmatched state school
+320800861030,84X362,Icahn Charter School 7,SUNY,2013-09-11,operating,800000071153,320800861030,Icahn Charter School 7,exact BEDS
+320700861035,84X364,South Bronx Classical Charter School II,Regents,2013-08-21,operating,800000074677,320700861035,South Bronx Classical Charter School II,exact BEDS
+321100860909,84X378,Icahn Charter School 2,SUNY,2007-09-01,operating,800000060418,321100860909,Icahn Charter School 2,exact BEDS
+320900861044,84X380,Success Academy Charter School – Bronx 3,SUNY,2013-08-26,operating,800000075838,320800861044,Success Academy Charter School - Bronx 3,exact school name and unique unmatched state school
+320700861014,84X387,Brilla College Preparatory Charter School,SUNY,2013-08-21,operating,800000074675,320700861014,Brilla College Preparatory Charter School,exact BEDS
+320700860915,84X389,"BGLIG Charter School, The Shirley Rodriguez-Remeneski School",NYCDOE,2008-09-03,operating,800000061079,320700860915,Bronx Global Learning Institute for Girls Charter School,exact BEDS
+320700860920,84X393,University Prep Charter High School,SUNY,2008-08-08,operating,800000061083,320700860920,University Prep Charter High School,exact BEDS
+320700860925,84X394,Mott Haven Academy Charter School,NYCDOE,2008-09-02,operating,800000061086,320700860925,Mott Haven Charter School,exact BEDS
+320700860926,84X395,New York City Charter High School for AECI,Regents,2008-09-01,operating,800000061087,320700860926,"NYC Charter High School for Architecture, Engineering and Construction Industries (AECI)",exact BEDS
+321000860914,84X398,Bronx Community Charter School,NYCDOE,2008-09-02,operating,800000061078,321000860914,Bronx Community Charter School,exact BEDS
+320700860852,84X407,Access Bronx Charter School,Regents,2004-09-09,operating,800000056172,320700860852,Access Bronx Charter School,exact BEDS
+320900860913,84X419,Bronx Academy of Promise Charter School,NYCDOE,2008-09-01,operating,800000061090,320900860913,Bronx Academy of Promise Charter School,exact BEDS
+321100860917,84X422,Icahn Charter School 3,SUNY,2008-09-08,operating,800000061091,321100860917,Icahn Charter School 3,exact BEDS
+321000861064,84X429,Charter School for Law and Social Justice,Regents,2015-09-02,operating,800000082485,321000861064,Charter High School for Law and Social Justice,exact BEDS
+321000861075,84X460,Atmosphere Academy Public Charter School,SUNY,2015-08-24,operating,800000083985,321000861075,Atmosphere Academy Public Charter School,exact BEDS
+320900860962,84X461,Nuasin Next Generation Charter School,SUNY,2010-08-27,operating,800000067031,320900860962,Nuasin Next Generation Charter School,exact BEDS
+320800861074,84X464,Success Academy Charter School – Bronx 4,SUNY,2014-09-01,operating,800000082604,320800861074,Success Academy Charter School - Bronx 4,exact BEDS
+320700860994,84X465,Bronx Charter School for Excellence 7,SUNY,2014-09-01,operating,800000071084,320700860994,Bronx Charter School for Excellence 7,exact BEDS
+320700861062,84X471,American Dream Charter School,Regents,2014-08-25,operating,800000082483,320700861062,American Dream Charter School,exact BEDS
+320700861070,84X472,Family Life Academy Charter School III,SUNY,2014-09-01,operating,800000082610,320700861070,Family Life Academy Charter School III,exact BEDS
+321200860965,84X482,Dr. Richard Izquierdo Health and Science Charter School,NYCDOE,2010-09-01,operating,800000067013,321200860965,Dr. Richard Izquierdo Health and Science Charter School,exact BEDS
+321100861076,84X484,Bronx Charter School for Better Learning II,SUNY,2015-09-09,operating,800000083986,321100861076,Bronx Charter School for Better Learning II,exact BEDS
+320700861073,84X486,Rosalyn Yalow Charter School,Regents,2015-09-01,operating,800000083429,320700861073,Rosalyn Yalow Charter School,exact BEDS
+320800860940,84X487,Bronx Charter School for Excellence 6,SUNY,2009-08-02,operating,800000064291,320800860940,Bronx Charter School for Excellence 6,exact BEDS
+321100860956,84X488,Equality Charter School,NYCDOE,2009-09-01,operating,800000064235,321100860956,The Equality Charter School,exact BEDS
+320900861084,84X489,South Bronx Classical Charter School III,Regents,2015-08-20,operating,800000084246,320900861084,South Bronx Classical Charter School III,exact BEDS
+320700860957,84X491,Academic Leadership Charter School,SUNY,2009-09-24,operating,800000064236,320700860957,Academic Leadership Charter School,exact BEDS
+320800861068,84X492,South Bronx Early College Academy Charter School,Regents,2015-08-31,operating,800000082489,320800861068,South Bronx Early College Academy Charter School,exact BEDS
+320700860981,84X493,Success Academy Charter School – Bronx 1,SUNY,2010-08-01,operating,800000068332,320700860981,Success Academy Charter School - Bronx 1,exact BEDS
+320900860980,84X494,Success Academy Charter School – Bronx 2,SUNY,2010-08-01,operating,800000068333,320900860980,Success Academy Charter School - Bronx 2,exact BEDS
+321100860948,84X496,Icahn Charter School 4,SUNY,2009-09-07,operating,800000063983,321100860948,Icahn Charter School 4,exact BEDS
+320700861080,84X497,Storefront Academy Charter School,SUNY,2015-09-01,operating,800000084245,320700861080,Storefront Academy Charter School,exact BEDS
+321100860982,84X538,Icahn Charter School 5,SUNY,2011-09-01,operating,800000067237,321100860982,Icahn Charter School 5,exact BEDS
+321000860999,84X539,United Charter High School for Advanced Math and Science,SUNY,2011-09-01,operating,800000070185,321000860999,United Charter High School for Advanced Math and Science,exact BEDS
+321000860704,84X553,United Charter High School for the Humanities,SUNY,2011-09-01,operating,800000070186,321000860704,United Charter High School for the Humanities,exact BEDS
+321100861103,84X579,Bronx Charter School for Excellence 2,SUNY,2016-08-01,operating,800000086903,321100861103,Bronx Charter School for Excellence 2,exact BEDS
+320900861100,84X581,South Bronx Community Charter High School,Regents,2016-09-06,operating,800000086907,320900861100,South Bronx Community Charter High School,exact BEDS
+320700861114,84X585,Legacy College Preparatory Charter School,SUNY,2017-08-23,operating,800000088148,320700861114,Legacy College Preparatory Charter School,exact BEDS
+320700861106,84X586,Brilla Veritas Charter School,SUNY,2017-08-14,operating,800000087930,320700861106,Brilla Veritas Charter School,exact BEDS
+321200861108,84X587,New York Center for Autism Charter School Bronx,SUNY,2017-09-06,operating,800000087932,321200861108,NYC Autism Charter School Bronx,exact BEDS
+320700861122,84X588,South Bronx Classical Charter School IV,Regents,2017-08-16,operating,800000089044,320700861122,South Bronx Classical Charter School IV,exact BEDS
+321100861115,84X589,Bronx Charter School for Excellence 3,SUNY,2017-08-01,operating,800000088149,321100861115,Bronx Charter School for Excellence 3,exact BEDS
+321000861074,84X592,Amber Charter School Kingsbridge,SUNY,2016-09-01,operating,800000084247,321000861074,Amber Charter School Kingsbridge,exact BEDS
+320700861107,84X597,Urban Assembly Charter School for Computer Science,SUNY,2018-08-21,operating,800000087933,321200861107,Urban Assembly Charter School for Computer Science,exact school name and unique unmatched state school
+321000861135,84X598,KIPP Freedom Charter School,SUNY,2018-08-01,operating,800000089926,321000861135,KIPP Freedom Charter School,exact BEDS
+321000861130,84X599,Cardinal McCloskey Community Charter School,SUNY,2019-08-01,operating,800000089573,321000861130,Cardinal McCloskey Community Charter School,exact BEDS
+320800861126,84X606,Emblaze Academy Charter School,Regents,2018-07-01,operating,800000089569,320800861126,Emblaze Academy Charter School,exact BEDS
+321100861120,84X608,Bronx Charter School for Excellence 4,SUNY,2018-08-01,operating,800000089003,321100861120,Bronx Charter School for Excellence 4,exact BEDS
+320700861141,84X609,Zeta Charter School - South Bronx,SUNY,2018-08-01,operating,800000089932,320700861141,Zeta Charter Schools - South Bronx,exact BEDS
+320800861139,84X610,Urban Dove Team Charter School II,Regents,2018-08-01,operating,800000089930,320800861139,Urban Dove Team Charter School II,exact BEDS
+320900861154,84X611,AECI II: NYC CHS for Computer Engineering & Innovation,Regents,2019-09-03,operating,800000090717,320900861154,AECI II: NYC Charter High School for Computer Engineering and Innovation,exact BEDS
+320700861145,84X612,Creo College Preparatory Charter School,Regents,2019-08-28,operating,800000090254,320700861145,Creo College Preparatory Charter School,exact BEDS
+321200861143,84X613,BOLD Charter School,Regents,2019-08-14,operating,800000090246,320800861143,Bold Charter School,exact school name and unique unmatched state school
+320700861167,84X614,DREAM Charter School Mott Haven,SUNY,2019-08-20,operating,800000090791,320700861167,Dream Charter School Mott Haven,exact BEDS
+320700861173,84X615,University Prep Charter Middle School,SUNY,2019-08-01,operating,800000090804,320700861173,University Prep Charter Middle School,exact BEDS
+321000861150,84X616,KIPP Bronx Charter School II,SUNY,2019-08-01,operating,800000090260,321000861150,KIPP Bronx Charter School II,exact BEDS
+320900861151,84X617,KIPP Bronx Charter School III,SUNY,2019-08-01,operating,800000090261,320900861151,KIPP Bronx Charter School III,exact BEDS
+320800861155,84X619,Bronx Arts and Science Charter School,Regents,2019-08-26,operating,800000090719,320800861155,Bronx Arts and Science Charter School,exact BEDS
+321000861121,84X620,Bronx Charter School for Excellence 5,SUNY,2019-08-01,operating,800000089004,321000861121,Bronx Charter School for Excellence 5,exact BEDS
+320700861137,84X623,Neighborhood Charter School: Bronx,Regents,2019-08-01,operating,800000089928,320700861137,Neighborhood Charter School: Bronx,exact BEDS
+321100861163,84X627,Capital Preparatory Bronx Charter School,SUNY,2020-08-01,operating,800000090780,321100861163,Capital Preparatory Bronx Charter School,exact BEDS
+321000861160,84X628,Brilla Caritas Charter School,SUNY,2020-08-01,operating,800000090773,321000861160,Brilla Caritas Charter School,exact BEDS
+320900861161,84X629,Brilla Pax Charter School,SUNY,2020-08-01,operating,800000090774,321000861161,Brilla Pax Charter School,exact school name and unique unmatched state school
+321000861179,84X630,Bronx Charter School for Excellence 8,SUNY,2020-08-01,operating,800000091167,320700861179,Bronx Charter School for Excellence 8,exact school name and unique unmatched state school
+320900861181,84X631,Zeta Charter School - Bronx Mount Eden,SUNY,2020-08-01,operating,800000091169,320900861181,Zeta Charter School – Mount Eden,exact BEDS
+321200861182,84X632,Zeta Charter School - Bronx Tremont Park,SUNY,2020-08-01,operating,800000091170,321200861182,Zeta Charter School – Tremont Park,exact BEDS
+320900861174,84X633,Wildflower New York Charter School,SUNY,2020-08-28,operating,800000090805,320900861174,Wildflower New York Charter School,exact BEDS
+320700861169,84X635,Earl Monroe New Renaissance Basketball Academy Charter School,SUNY,2021-08-01,operating,800000090795,320700861169,Earl Monroe New Renaissance Basketball Charter School,exact BEDS
+320700861089,84X637,Strive Charter School,SUNY,2022-09-01,operating,800000084528,320700861089,Strive Charter School,exact BEDS
+320700861097,84X638,Success Academy Charter School - Bronx 5 Upper,SUNY,2022-09-01,operating,800000084536,320700861097,Success Academy Charter School – Bronx 5 Upper,exact BEDS
+320900861166,84X639,DREAM Charter School Highbridge,SUNY,2022-08-20,operating,800000090789,320900861166,Dream Charter School Highbridge,exact BEDS
+320900861178,84X640,Family Life Academy Charter Schools High School,SUNY,2022-09-01,operating,800000091166,320900861178,Family Life Academy Charter Schools High School,exact BEDS
+321100861091,84X645,Success Academy Charter School - NYC 5,SUNY,2024-09-01,operating,800000084530,331300861091,Success Academy Charter School - NYC 5,exact school name and unique unmatched state school
+321100861092,84X646,Success Academy Charter School - NYC 6,SUNY,2024-09-01,operating,800000084531,331400861092,Success Academy Charter School - NYC 6,exact school name and unique unmatched state school
+320800861098,84X647,Success Academy Charter School - NYC 12,SUNY,2024-09-01,operating,800000084537,342400861098,Success Academy Charter School - NYC 12,exact school name and unique unmatched state school
+321200860866,84X648,Bronx Charter School for Excellence 9,SUNY,2005-08-24,operating,800000057553,321200860866,Bronx Charter School for Excellence 9,exact BEDS
+321200861001,84X649,Democracy Prep Endurance Charter School,SUNY,2012-08-20,operating,800000070174,321200861001,Democracy Preparatory Endurance Charter School,exact BEDS
+321100861200,84X652,Haven Charter High School,SUNY,2025-09-01,operating,800000093170,320800861200,Haven Charter High School,exact school name and unique unmatched state school
+321000861204,84X653,South Bronx Classical Charter School V,SUNY,2026-09-01,operating,800000093527,320800861204,South Bronx Classical Charter School V,exact school name and unique unmatched state school
+320900860807,84X703,Bronx Preparatory Charter School,SUNY,2001-08-02,operating,800000055860,320900860807,Bronx Preparatory Charter School,exact BEDS
+320700860820,84X704,KIPP Academy Charter School,NYCDOE,2000-09-01,operating,800000034168,320700860820,KIPP Academy Charter School,exact BEDS
+320900860839,84X705,Family Life Academy Charter School,SUNY,2001-09-01,operating,800000046302,320900860839,Family Life Academy Charter School,exact BEDS
+320900860835,84X717,Icahn Charter School 1,SUNY,2001-08-01,operating,800000046301,320900860835,Icahn Charter School 1,exact BEDS
+321100860855,84X718,Bronx Charter School for Better Learning,SUNY,2003-09-20,operating,800000056593,321100860855,Bronx Charter School for Better Learning,exact BEDS
+320800860846,84X730,Bronx Charter School for the Arts,Regents,2003-09-01,operating,800000055808,320800860846,Bronx Charter School for the Arts,exact BEDS
+321000861088,84X780,Success Academy Charter School - Norwood,SUNY,2017-08-01,operating,800000084527,321000861088,Success Academy Charter School - Norwood,exact BEDS
+321000861093,84X886,Success Academy Charter School - NYC 7,SUNY,2024-09-01,operating,800000084532,331500861093,Success Academy Charter School - NYC 7,exact school name and unique unmatched state school
