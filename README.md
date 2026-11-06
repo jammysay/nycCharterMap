@@ -20,8 +20,6 @@ The map includes all **286 operating NYC charter schools** in the October 20 NYS
 - [Campus crosswalk](campuses.csv) records addresses, dates, and sources for the mapped locations. Locations were checked against [NYC Public Schools location records](https://infohub.nyced.org/in-our-schools/operations/lcgms), the [NYC Charter School Finder](https://findnyccharterschools.org/), and school or authorizer pages. Coordinates use [NYC GeoSearch](https://geosearch.planninglabs.nyc/docs/) or the source cited in the crosswalk. Borough names use [NYC Planning boundaries](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/gthc-hcne/data).
 - [Reconciliation log](reconciliation.csv) records decisions and evidence. The campus count describes this snapshot.
 
-Ridgewood Elementary is mapped once at 58-23 Catalpa Avenue. The map uses the NYC 17 roster entry. The audit retains SUNY's additional Bed Stuy 3 listing. Laurelton Middle School is scheduled to open in 2027–28.
-
 Run these commands from the repository root with Python 3. No additional packages are required.
 
 ```sh
