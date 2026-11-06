@@ -1,6 +1,6 @@
 # NYC charter school campus map
 
-**2026–27 school year · November 5, 2026 snapshot · Reconciled November 6, 2026**
+**Project prepared for Success Academy job application. Map for 2026–27 school year, snapshotted on November 5, 2026**
 
 [Open the map in GitHub](nyc-charter-campuses.geojson). Each pin marks an instructional location. Select a pin to see the borough, addresses, and campus details. A pin can represent more than one campus at a shared site.
 
